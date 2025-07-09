@@ -1,4 +1,5 @@
 ## Hi there, I'm Akın
+[![wakatime](https://wakatime.com/badge/user/6d46e80e-14d2-45bf-8536-3704cd05fa15.svg)](https://wakatime.com/@6d46e80e-14d2-45bf-8536-3704cd05fa15)
 
 # 💫 About Me:
 🔭 I’m currently working on software engeering.<br>🌱 I’m currently learning c#.<br><br>
