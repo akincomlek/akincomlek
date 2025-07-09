@@ -1,4 +1,4 @@
-## Hi there, ı am Akın
+## Hi there, I'm Akın
 
 <!--
 **akkincmlk/akkincmlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
